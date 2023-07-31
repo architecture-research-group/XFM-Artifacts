@@ -17,5 +17,5 @@ crypto operations (encryption, decryption, and authentication
 using AES-NI).
 
 ### Directory Structure
-* `spec_workload_corunning` SPEC/SFM workloads used for SFM Corunning tests in the paper
-* ``
+* `spec_workload_experiment` SPEC/SFM workloads used for SFM Corunning tests in the paper
+* `xfm_access_model` XFM sensitivity analysis examining the number of offloads of each type outlined in the paper for a given memory configuration 
