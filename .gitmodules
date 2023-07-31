@@ -1,0 +1,6 @@
+[submodule "xfm_access_model"]
+	path = xfm_access_model
+	url = git@github.com:neel-patel-1/xfm_access_model.git
+[submodule "spec_workload_experiment"]
+	path = spec_workload_experiment
+	url = git@github.com:neel-patel-1/spec_workload_experiment.git
