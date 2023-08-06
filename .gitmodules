@@ -4,3 +4,6 @@
 [submodule "spec_workload_experiment"]
 	path = spec_workload_experiment
 	url = git@github.com:neel-patel-1/spec_workload_experiment.git
+[submodule "memory_channel_interleave_ratios"]
+	path = memory_channel_interleave_ratios
+	url = https://github.com/neel-patel-1/memory_channel_interleave_ratios.git
