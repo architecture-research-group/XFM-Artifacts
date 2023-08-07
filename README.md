@@ -7,6 +7,8 @@ Neel Patel, Amin Mamandipoor, Derrick Quinn, and Mohammad Alian
 
 ### Evaluation instructions ###
 
+* start by executing `git submodule update --init --recursive` to fetch all submodules and dependencies
+
 The scripts in this paper can be used to reproduce:
 * Figure 8: XFM Memory Channel Interleaving Compression Ratios
 * Figure 11: SPEC/SFM interference (LZBench Compression and SPEC 
